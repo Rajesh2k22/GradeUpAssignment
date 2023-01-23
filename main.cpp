@@ -8,6 +8,8 @@ void createAccount();
 void deposite(int &, string &);
 void Balance(int &, string &);
 void withdraw(int & , string &);
+void AcountWork(int &, string &);
+void start();
 
 
 
